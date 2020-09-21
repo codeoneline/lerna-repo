@@ -6,5 +6,5 @@
   "scripts": {
     "test": "echo testing common with version: $npm_package_version"
   },
-  "gitHead": "51915ee0747e5ee50187e3cd35ba9bb79462cfaa"
+  "gitHead": "dc194dec333df5dd8645e51ed07ad9e690271bb9"
 }

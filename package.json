@@ -1,5 +1,6 @@
 {
-  "name": "root",
+  "name": "mutouji-root",
+  "description": "A NPM package that exports functions to mask values",
   "private": false,
   "workspaces": [
     "packages/*"
