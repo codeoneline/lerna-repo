@@ -1,6 +1,6 @@
 {
   "name": "@mutouji/server",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@mutouji/common": "^1.0.7"
+    "@mutouji/common": "^1.0.8"
   },
   "gitHead": "51915ee0747e5ee50187e3cd35ba9bb79462cfaa"
 }
