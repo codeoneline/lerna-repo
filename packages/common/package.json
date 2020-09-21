@@ -1,6 +1,6 @@
 {
   "name": "@buzhou1/mutouji-common",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "test common",
   "main": "index.js",
   "scripts": {
