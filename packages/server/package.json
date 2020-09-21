@@ -1,7 +1,7 @@
 {
   "name": "mutouji-server",
   "version": "1.0.10",
-  "description": "",
+  "description": "test server",
   "main": "index.js",
   "scripts": {
     "test": "echo testing server with version: $npm_package_version"

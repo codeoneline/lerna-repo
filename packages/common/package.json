@@ -1,7 +1,7 @@
 {
   "name": "mutouji-common",
   "version": "1.0.10",
-  "description": "",
+  "description": "test common",
   "main": "index.js",
   "scripts": {
     "test": "echo testing common with version: $npm_package_version"
