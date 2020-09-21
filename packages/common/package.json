@@ -1,9 +1,10 @@
 {
-  "name": "@jsw/common",
+  "name": "@mutouji/common",
   "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo testing common with version: $npm_package_version"
-  }
+  },
+  "gitHead": "97e001588ff52919b34fae03d877119b28eadd89"
 }

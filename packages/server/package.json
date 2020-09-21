@@ -1,5 +1,5 @@
 {
-  "name": "@jsw/server",
+  "name": "@mutouji/server",
   "version": "1.0.4",
   "description": "",
   "main": "index.js",
@@ -8,6 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@jsw/common": "^1.0.4"
-  }
+    "@mutouji/common": "^1.0.4"
+  },
+  "gitHead": "97e001588ff52919b34fae03d877119b28eadd89"
 }
