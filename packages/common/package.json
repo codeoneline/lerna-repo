@@ -1,5 +1,5 @@
 {
-  "name": "@buzhou1/mutouji-common",
+  "name": "@buzhou/mutouji-common",
   "version": "1.0.15",
   "description": "test common",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "6e242a75214fa5563d83b296039c27242f40d7ac"
+  "gitHead": "4c51000d70ddd29f68de27d530f1c1ab64463d30"
 }
