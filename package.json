@@ -9,9 +9,10 @@
     "test-since": "lerna run test --since",
     "test-common": "lerna run test --scope=@jsw/common",
     "test-common-server": "lerna run test --scope={@jsw/common,@jsw/server}",
+    "changed": "lerna changed",
     "new-version": "lerna version --conventional-commits --yes",
-    "diff": "lerna diff",
-    "publish": "lerna publish"
+    "publish": "lerna publish",
+    "diff": "lerna diff"
   },
   "devDependencies": {
     "lerna": "^3.22.1"
