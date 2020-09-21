@@ -1,10 +1,10 @@
 {
-  "name": "@mutouji/common",
+  "name": "mutouji-common",
   "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo testing common with version: $npm_package_version"
   },
-  "gitHead": "dc194dec333df5dd8645e51ed07ad9e690271bb9"
+  "gitHead": "4cf984979df9206390202264f67a7822992749d7"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@mutouji/server",
+  "name": "mutouji-server",
   "version": "1.0.9",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@mutouji/common": "^1.0.9"
+    "mutouji-common": "^1.0.9"
   },
-  "gitHead": "dc194dec333df5dd8645e51ed07ad9e690271bb9"
+  "gitHead": "4cf984979df9206390202264f67a7822992749d7"
 }
