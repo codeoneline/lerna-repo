@@ -1,5 +1,5 @@
 {
-  "name": "mutouji-server",
+  "name": "@buzhou/mutouji-server",
   "version": "1.0.11",
   "description": "test server",
   "main": "index.js",

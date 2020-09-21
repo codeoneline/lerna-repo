@@ -1,4 +1,4 @@
-const commonFunction = require("mutouji-common");
+const commonFunction = require("@buzhou/mutouji-common");
 
 commonFunction();
 commonFunction();
