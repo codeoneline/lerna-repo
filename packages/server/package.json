@@ -10,5 +10,8 @@
   "dependencies": {
     "mutouji-common": "^1.0.11"
   },
-  "gitHead": "ef20db4cc060b34782d5e55e14133eb5552d890b"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "6e242a75214fa5563d83b296039c27242f40d7ac"
 }
